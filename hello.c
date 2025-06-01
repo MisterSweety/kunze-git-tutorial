@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("sveki kunze!\n");
+    printf("sveki kungs!\n");
     return 0;
 }
